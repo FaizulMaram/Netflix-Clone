@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A Netflix Clone built using React.js Firebase for learning purposes. This project is part of my React practice to explore authentication, API integration, and UI design. This project is created only for learning and practice. It is not intended for commercial use.
+
